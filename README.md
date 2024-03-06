@@ -1,5 +1,7 @@
 <hr>
-Course Management System
+<b>Course Management System</b>
+
+
 The Course Management System is a web application developed using React.js for the frontend and Spring Boot for the backend. It offers a comprehensive platform for managing courses, catering to both administrators and users.
 
 
