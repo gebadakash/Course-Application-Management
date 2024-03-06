@@ -4,9 +4,10 @@
 
 The Course Management System is a web application developed using React.js for the frontend and Spring Boot for the backend. It offers a comprehensive platform for managing courses, catering to both administrators and users.
 
+![Course App ](https://github.com/gebadakash/Course-Application-Management/assets/137673292/6db77c98-b77f-4317-9c67-db6a545931c8)
 
 
-![Course App ](https://github.com/gebadakash/Course-Application-Management/assets/137673292/7781889a-5caa-4594-9ddd-d94d44658e0d)
+<hr>
 
 
 ![Course Home Page](https://github.com/gebadakash/Course-Application-Management/assets/137673292/1afa834a-dc3a-41b7-80e1-ec06e98a1f44)
